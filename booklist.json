@@ -1,0 +1,611 @@
+{
+  "_id": "booklist",
+  "_rev": "150-6372563eb0abdbf845298ff5d400923c",
+  "data": [
+    {
+      "unqId": "7504529009946",
+      "isbn": "9787115317957",
+      "status": 0,
+      "name": "机器学习实战",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": [
+        {
+          "intrID": "guojial@cn.ibm.com",
+          "name": "JIA LIANG GUO"
+        },
+        {
+          "intrID": "yangdlyu@cn.ibm.com",
+          "name": "YANG YU"
+        }
+      ],
+      "intrID": "",
+      "applyTime": null,
+      "borrowTime": null,
+      "returnTime": null
+    },
+    {
+      "unqId": "75073922742975",
+      "isbn": "9787100107419",
+      "status": 0,
+      "name": "语言的认知研究和计算分析（增订本）",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75052669224537",
+      "isbn": "9787121220586",
+      "status": 0,
+      "name": "共创式教练",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75107104263388",
+      "isbn": "9787111461340",
+      "status": 1,
+      "name": "云计算",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": [],
+      "intrID": "yangdlyu@cn.ibm.com",
+      "applyTime": "Wed Jul 19 2017 16:20:22 GMT+0800 (中国标准时间)"
+    },
+    {
+      "unqId": "75042635824372",
+      "isbn": "9787115369093",
+      "status": 0,
+      "name": "重构",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75083567530123",
+      "isbn": "9787115414489",
+      "status": 0,
+      "name": "Arduino编程指南.75个智能硬件程序设计技巧 - 蒙克",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75096462688717",
+      "isbn": "9787121276484",
+      "status": 0,
+      "name": "大数据智能",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75098238400580",
+      "isbn": "9787302392712",
+      "status": 0,
+      "name": "大数据导论",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75022235521870",
+      "isbn": "9787302295419",
+      "status": 0,
+      "name": "新手学Java 7编程",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75050025781345",
+      "isbn": "9787121225000",
+      "status": 0,
+      "name": "重构大数据统计",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75102007337287",
+      "isbn": "9787115353016",
+      "status": 0,
+      "name": "Sass与Compass实战",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75093161566999",
+      "isbn": "9787302258391",
+      "status": 0,
+      "name": "JavaServer Faces核心编程",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75061353635211",
+      "isbn": "9787115250834",
+      "status": 0,
+      "name": "iPhone用户界面设计典型实例",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75021327748598",
+      "isbn": "9787115360960",
+      "status": 0,
+      "name": "D3.js数据可视化实战手册",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75044652682920",
+      "isbn": "9787111369608",
+      "status": 0,
+      "name": "社交网站的数据挖掘与分析",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75037473727981",
+      "isbn": "9787560999302",
+      "status": 0,
+      "name": "Sass和Compass设计师指南",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75039066636059",
+      "isbn": "9787115318091",
+      "status": 0,
+      "name": "Objective-C高级编程",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75049383389426",
+      "isbn": "9787111213826",
+      "status": 0,
+      "name": "Java编程思想 （第4版）",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75034287242354",
+      "isbn": "9787121192012",
+      "status": 0,
+      "name": "Arduino从基础到实践",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75093797610264",
+      "isbn": "9787115243249",
+      "status": 0,
+      "name": "简约至上",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75097907985323",
+      "isbn": "9787111370048",
+      "status": 0,
+      "name": "Java并发编程实战",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75082784651063",
+      "isbn": "9787302308812",
+      "status": 0,
+      "name": "HTML5+CSS3从入门到精通",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75073380515016",
+      "isbn": "9787302389644",
+      "status": 0,
+      "name": "Kali Linux渗透测试技术详解",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75036127466099",
+      "isbn": "9787115317957",
+      "status": 0,
+      "name": "机器学习实战",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75106864017189",
+      "isbn": "9787121232930",
+      "status": 0,
+      "name": "深入分析Java Web技术内幕",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75082642990278",
+      "isbn": "9787121198854",
+      "status": 0,
+      "name": "高性能MySQL",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75051490506322",
+      "isbn": "9787121227615",
+      "status": 0,
+      "name": "大型网站系统与Java中间件开发实践",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "7504512801353",
+      "isbn": "9787302312710",
+      "status": 0,
+      "name": "Java Web整合开发实战",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75075396541780",
+      "isbn": "9787302348665",
+      "status": 0,
+      "name": "实战大数据",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75038059090579",
+      "isbn": "9787300150307",
+      "status": 0,
+      "name": "社会网络分析",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75031554258117",
+      "isbn": "9787115291783",
+      "status": 0,
+      "name": "iOS应用开发攻略",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75064581263170",
+      "isbn": "9787115327611",
+      "status": 0,
+      "name": "精通iOS开发",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75108986850570",
+      "isbn": "9787115376251",
+      "status": 0,
+      "name": "大融合——互联网时代的商业模式",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75096889838230",
+      "isbn": "9787508353937",
+      "status": 0,
+      "name": "Head First 设计模式（中文版）",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75056031553859",
+      "isbn": "9787111501596",
+      "status": 0,
+      "name": "Java虚拟机规范（Java SE 8版）",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75031490146796",
+      "isbn": "9787121277382",
+      "status": 0,
+      "name": "让云落地",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75032107587827",
+      "isbn": "9787121266133",
+      "status": 0,
+      "name": "About Face 4: 交互设计精髓",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75087664357716",
+      "isbn": "9787111484561",
+      "status": 0,
+      "name": "Objective-C 2.0 Mac和IOS开发实践指南",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75051299389742",
+      "isbn": "9787302446392",
+      "status": 0,
+      "name": "Ardunio实战指南",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75102675157761",
+      "isbn": "9787121216442",
+      "status": 0,
+      "name": "云时代的大数据",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75016222641466",
+      "isbn": "9787512416871",
+      "status": 0,
+      "name": "Arduino程序设计基础（第2版）",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75018996609131",
+      "isbn": "9787509791851",
+      "status": 0,
+      "name": "AR：场景互动神器",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75043429224026",
+      "isbn": "9787302209768",
+      "status": 0,
+      "name": "Java Web整合开发王者归来",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75042367551662",
+      "isbn": "9787115335500",
+      "status": 0,
+      "name": "深入浅出Node.js",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": [
+        {
+          "intrID": "dllinliu@cn.ibm.com",
+          "name": "Lin Liu"
+        }
+      ],
+      "intrID": "",
+      "applyTime": null,
+      "borrowTime": null,
+      "returnTime": null
+    },
+    {
+      "unqId": "75029811040888",
+      "isbn": "9787111481546",
+      "status": 0,
+      "name": "点石成金",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75107976259389",
+      "isbn": "9787111348665",
+      "status": 0,
+      "name": "用户体验要素",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": [
+        {
+          "intrID": "yangdlyu@cn.ibm.com",
+          "name": "YANG YU"
+        }
+      ],
+      "intrID": "",
+      "applyTime": null,
+      "borrowTime": null,
+      "returnTime": null
+    },
+    {
+      "unqId": "75033207425411",
+      "isbn": "9787115437228",
+      "status": 0,
+      "name": "全栈性能测试修炼宝典 JMeter实战",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": [
+        {
+          "intrID": "jjlidl@cn.ibm.com",
+          "name": "JING JING LI"
+        }
+      ],
+      "intrID": "",
+      "applyTime": null,
+      "borrowTime": null,
+      "returnTime": null
+    },
+    {
+      "unqId": "75063920701385",
+      "isbn": "9787115384881",
+      "status": 0,
+      "name": "Java 8函数式编程",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75022832672379",
+      "isbn": "9787030422194",
+      "status": 0,
+      "name": "物联网智能家居平台DIY",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75027534963368",
+      "isbn": "9787115423528",
+      "status": 0,
+      "name": "精通Metasploit渗透测试",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75026402710969",
+      "isbn": "9787302326618",
+      "status": 0,
+      "name": "DB2设计、管理与性能优化艺术",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": [],
+      "intrID": "",
+      "applyTime": ""
+    },
+    {
+      "unqId": "75105159009925",
+      "isbn": "9787111478881",
+      "status": 0,
+      "name": "Java RESTful Web Service实战",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": [
+        {
+          "intrID": "dlxs@cn.ibm.com",
+          "name": "Si Yu Xing"
+        },
+        {
+          "intrID": "dlxs@cn.ibm.com",
+          "name": "Si Yu Xing"
+        },
+        {
+          "intrID": "dlxs@cn.ibm.com",
+          "name": "Si Yu Xing"
+        }
+      ],
+      "intrID": "",
+      "applyTime": null,
+      "borrowTime": null,
+      "returnTime": null
+    },
+    {
+      "unqId": "75065385183245",
+      "isbn": "9787111212508",
+      "status": 0,
+      "name": "Java编程思想",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": [
+        {
+          "intrID": "shisjsj@cn.ibm.com",
+          "name": "Jing Shi"
+        },
+        {
+          "intrID": "shisjsj@cn.ibm.com",
+          "name": "Jing Shi"
+        }
+      ],
+      "intrID": "",
+      "applyTime": null,
+      "borrowTime": null,
+      "returnTime": null
+    },
+    {
+      "unqId": "7503202490175",
+      "isbn": "9787115352460",
+      "status": 0,
+      "name": "Node.js实战",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": [
+        {
+          "intrID": "zcdl@cn.ibm.com",
+          "name": "Cheng Zhang"
+        }
+      ],
+      "intrID": "",
+      "applyTime": null,
+      "borrowTime": null,
+      "returnTime": null
+    },
+    {
+      "unqId": "75046594342999",
+      "isbn": "9787115311078",
+      "status": 0,
+      "name": "Node.js入门经典",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": [
+        {
+          "intrID": "zcdl@cn.ibm.com",
+          "name": "Cheng Zhang"
+        }
+      ],
+      "intrID": "",
+      "applyTime": null,
+      "borrowTime": null,
+      "returnTime": null
+    },
+    {
+      "unqId": "75092907256979",
+      "isbn": "9787302223405",
+      "status": 0,
+      "name": "用户故事与敏捷方法",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    },
+    {
+      "unqId": "75109252502671",
+      "isbn": "9787302363859",
+      "status": 0,
+      "name": "Scrum精髓",
+      "__v": 0,
+      "owner": "yangdlyu@cn.ibm.com",
+      "borrower": []
+    }
+  ]
+}
